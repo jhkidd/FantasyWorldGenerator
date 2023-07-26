@@ -1,0 +1,18 @@
+[
+	{
+		"id":"human",
+		"singular":"Human",
+		"plural":"Humans",
+		"possessive":"Human",
+		"longevity":80,
+		"prominence":1,
+		"history length":"short",
+		"fantasy level":"low",
+		"diet":"omnivore",
+		"intelligence":10,
+		"innate magic":10,
+		"moral alignment": ["good", "neutral"],
+		"prefered location": ["plains", "hills"],
+		"forbidden location": ["swamp", "volcano", "sea"]
+	}
+]

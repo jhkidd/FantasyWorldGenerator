@@ -1,0 +1,91 @@
+
+
+Fantasy world generator inspired by Dwarf ortress/toady1
+
+https://youtu.be/49b7fUI7AEI?t=563
+
+
+Settings to control both degree of fantasy (high to low) and degree of deviation (how far from tolkein)
+
+Have phases of development: 
+ * Establish pantheon of gods (new gods could be introduced later either born/created/come from another plane) (primordial phase)
+ Gods don't have to be humanoid. Could be odd things like a dragon or an egg. Or even a primordial force like the dance of water, the timeless rhythm.
+ In the beggining there was only the void/endless waters/raging fire
+ * Establish the creation of the world (age of myths)
+ * Establish the birth of the various races and creatures. This can be staggered so some appear first like elves
+ * Overlapping the previous, the birth of civilisations. Initially they're racially segregated.  (age of legends)
+ Have some phases of civilisation from nomad-> early settled -> named city states which are distinct -> unify into countries with multiple cities
+ Sites could be abandoned or destroyed, leaving what will become ancient ruins. (lootable?)
+
+
+some gods could be unkillable, like primordial forces.
+
+
+Potential spheres:
+Chaos
+Earth
+The underworld
+Love
+Darkness
+Night
+Shadow
+Light
+Sky
+Mountains
+Sea
+
+
+
+Big/mytholological things that could happen during world gen:
+
+ * Conjunction of spheres (the witcher) - Two realms colide or intersect, causing creatures from one to arrive in the other. (could bring new god)
+ * Moral tale with gods, i.e. Arachne in greek myth being turned into a spider for being a better weaver than the gods (and that potentially introducing new races or sub-races, i.e. sea-dwarves living their lives without setting foot on land due to some curse.)
+ * Natural disasters or wrath of the gods cause huge distruction, could cause the collapse of or completely wipe out civilisations (flood, disease, volcano, earthquake, atlantis stlye sinking of continent) Some survivors, race knocked back to very early nomad civilisation, numbers lowered.
+ * Advanced civilisations (magic?) could dig to deep or have a magical experiment go wrong and cause disaster (valyria explosion). Cause surrounding landscape to become volcanic/poisoned/etc
+ * Gods could become wedded, forming a cosmic union and permanently linking two spheres. Uranus god of the sky married gaia goddess of the earth
+ * Gods could dethrone other gods. Cronus (Encouraged by gaia) castrates Uranus with a sickle and dethrones him, becoming the new ruler of the cosmos.
+ *  
+
+
+
+Gods:
+Gods and or dieties should always exist in some form. They can have spheres (fire, water, crafstmanship, etc.) and alignment (chaotic good, etc)
+Gods could be killed during myth era, and their bodies become the land etc. 
+Gods can create races in their image or their aspect, or races earn their favour.
+
+
+Creatures and intelligent races:
+
+
+Humans, elves, dwarves, kobolds (and/or Lizardfolk?), gnomes, orcs, goblins, halflings, gnoll, harpy, troll, Centaur, ogre, hobgoblin, harimari, djinn, giant. Animal people?
+
+
+Races should have attributes, but this is represented as some mean and std deviation.
+A standard  setting run should generate something close to tolkein, While more bizare settings could have vegetarian tee-total, magic using dwarves
+
+During world gen new races could be spun off from the main branch. i.e. if there are chaotic evil dwarves but something causes a bunch of them to become good then you have blessed-orcs as a sub-race.
+
+Potential attributes
+longevity (how long they live for)
+history length (When they should expect to appear in myth gen, i.e. elves among the first races, humans and orcs more recent)
+Prominence (How likely they are to appear, i.e. humans always appear)
+High fantasy level (low fantasy just humans, medium elves and dwarves, high more exotic races)
+Diet (meat only, omnivore, vegetarian)? canibal?
+Physical description (limbs, height, coloration, this likely would have very low standard deviation or potentially none. Harpies always have wings for example)
+intelligence? 
+inate magic ability?
+Moral alignment?
+Associated spheres (dwarves with industry/mining/drinking, elves with forests/archery) 
+Where they prefer to live (forest/mountains/hills/plains/swamp/on the sea/under the sea?/volcanic/blessed land)
+Where they can't live
+
+Potential sub-races develop?
+
+
+
+
+
+
+
+
+
